@@ -1,0 +1,29 @@
+hi:
+  activerecord:
+    attributes:
+      article:
+        title: "टाइटल "
+        body: "बॉडी"
+  forms:
+    messages:
+      success: "सफ़ल"
+    buttons:
+      edit: "एडिट "
+      submit: "सब्मिट"
+  menu:
+    new_article: "आर्टिकल जोडे"
+    languages:
+      lang: "भाषाएं"
+      ru: "रशियन" 
+      en: "इंगलिश"
+      hi: "हिन्दी"
+  articles:
+    index:
+      title: "आर्टिकल सूची "
+      count:
+        one: "%{count} आर्टिकल"
+        other: "%{count} आर्टिकल"
+    edit:
+      title: "आर्टिकल एडिट "
+    new:
+      title: "नया आर्टिकल"

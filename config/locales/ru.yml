@@ -1,0 +1,32 @@
+ru:
+  activerecord:
+   attributes:
+     article:
+       title: "Название"
+       body: "Текст"
+  forms:
+    messages:
+      success: "Операция была успешно выполнена!"
+    buttons:
+     edit: "Редактировать"
+     submit: "Отправить"
+  menu:
+    new_article: "Добавить статью"
+    languages:
+      lang: "Язык"
+      ru: "Русский"
+      en: "Английский"
+      hi: "хинди"
+  articles:
+    index:
+      title: "Список статей"
+      count:
+        zero: "%{count} статей"
+        one: "%{count} статья"
+        few: "%{count} статьи"
+        many: "%{count} статей"
+        other: "%{count} статьи"
+    edit:
+      title: "Редактировать статью"
+    new:
+      title: "Добавить статью"
